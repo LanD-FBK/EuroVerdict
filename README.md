@@ -136,9 +136,9 @@ If you use EuroVerdict in your work, please cite the following paper:
 # License
 EuroVerdict can be used for research purposes and cannot be redistributed. Please cite the corresponding publication if you use it.
 
-## Funding acknowledgement
+# Funding Acknowledgement
 <p>
-<img src="https://github.com/Odeuropa/.github/raw/main/profile/eu-logo.png" width="9%" align="left" alt="EU logo" style="padding-right: 10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/1599px-Flag_of_Europe.svg.png" width="9%" align="left" alt="EU logo" style="padding-right: 10px;"/>
 
 This work was partly supported by: the AI4TRUST project - AI-based-technologies for trustworthy solutions against disinformation (ID: 101070190), the European Union’s CERV fund under grant agreement No. 101143249 (HATEDEMICS), the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101135437 (AI-CODE).
 </p>
